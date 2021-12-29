@@ -15,9 +15,9 @@ To deploy this project run
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/techschneiderrr/Ms-Teams-Clone-/blob/main/assets/1.png)
 
-![App Screenshot]()
+![App Screenshot](https://github.com/techschneiderrr/Ms-Teams-Clone-/blob/main/assets/2.png)
 ## Authors
 
 - [@techschneiderrr](https://github.com/techschneiderrr)
