@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		25147DE8277EC744006F0476 /* headerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25147DE7277EC744006F0476 /* headerView.swift */; };
+		25147DEA277ED7FB006F0476 /* navView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25147DE9277ED7FA006F0476 /* navView.swift */; };
 		256092C9277E2C95003A0FEB /* chatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 256092C8277E2C95003A0FEB /* chatView.swift */; };
 		256092CF277E3D74003A0FEB /* messageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 256092CE277E3D73003A0FEB /* messageView.swift */; };
 		2593977A277CECB60056C8C8 /* MS_Teams_cloneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25939779277CECB60056C8C8 /* MS_Teams_cloneApp.swift */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		25147DE7277EC744006F0476 /* headerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = headerView.swift; sourceTree = "<group>"; };
+		25147DE9277ED7FA006F0476 /* navView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = navView.swift; sourceTree = "<group>"; };
 		256092C8277E2C95003A0FEB /* chatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chatView.swift; sourceTree = "<group>"; };
 		256092CE277E3D73003A0FEB /* messageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = messageView.swift; sourceTree = "<group>"; };
 		25939776277CECB60056C8C8 /* MS Teams clone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MS Teams clone.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -66,6 +70,8 @@
 			children = (
 				256092C8277E2C95003A0FEB /* chatView.swift */,
 				256092CE277E3D73003A0FEB /* messageView.swift */,
+				25147DE7277EC744006F0476 /* headerView.swift */,
+				25147DE9277ED7FA006F0476 /* navView.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -139,9 +145,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25147DE8277EC744006F0476 /* headerView.swift in Sources */,
 				256092C9277E2C95003A0FEB /* chatView.swift in Sources */,
 				2593977C277CECB60056C8C8 /* ContentView.swift in Sources */,
 				256092CF277E3D74003A0FEB /* messageView.swift in Sources */,
+				25147DEA277ED7FB006F0476 /* navView.swift in Sources */,
 				2593977A277CECB60056C8C8 /* MS_Teams_cloneApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

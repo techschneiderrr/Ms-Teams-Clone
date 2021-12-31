@@ -61,7 +61,7 @@ struct messageView: View {
                         .frame(minWidth: 0, maxWidth: .infinity,alignment: .leading)
                         .font(.system(size: 14))
                         
-                }.padding(.top,6)
+                }.padding(.top,3)
                 Text(date)
                     .foregroundColor(Color.gray)
                     .font(.system(size: 14))
