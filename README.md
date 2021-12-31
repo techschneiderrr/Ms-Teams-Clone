@@ -15,18 +15,28 @@ To deploy this project run
 
 ## Screenshots
 
-<div align="center">
-<h2 align="center">Programs we have been a part of</h2>
-
-                                                                    
-| -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| ![App Screenshot](https://github.com/techschneiderrr/Ms-Teams-Clone/blob/main/assets/Screenshot%202021-12-31%20at%2012.31.37%20PM.png)     | ![App Screenshot](https://github.com/techschneiderrr/Ms-Teams-Clone/blob/main/assets/Screen%20Recording%202021-12-31%20at%2012.36.44%20PM.gif)
- |
-
-
- </div>
-
 ![App Screenshot](https://github.com/techschneiderrr/Ms-Teams-Clone/blob/main/assets/Screenshot%202021-12-31%20at%2012.26.14%20PM.png)
+
+
+
+<table>
+	<thead>
+		<td>
+			<b>Screenshot</b>
+		</td>
+		<td>
+			<b>Video demo</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://github.com/techschneiderrr/Ms-Teams-Clone/blob/main/assets/Screenshot%202021-12-31%20at%2012.31.37%20PM.png">
+		</td>
+		<td>
+			<img width="306" alt="render-one" src="https://github.com/techschneiderrr/Ms-Teams-Clone/blob/main/assets/Screen%20Recording%202021-12-31%20at%2012.36.44%20PM.gif">
+		</td>
+	</tr>
+
 
 
 
