@@ -20,7 +20,7 @@ struct navView: View {
                 if(stat==0) {
                     Image(img)
                         .resizable()
-                        .frame(width: 20, height: 20)
+                        .frame(width: 24, height: 24)
                 }
                 else {
                     Image(systemName: img)
@@ -30,9 +30,16 @@ struct navView: View {
                 
                     
             }
+            if(stat==0) {
             Text(text)
                 .foregroundColor(Color.gray)
                 .font(.system(size: 10))
+            }
+            else {
+                Text(text)
+                    .foregroundColor(Color.white)
+                    .font(.system(size: 10))
+            }
         }
     }
 }

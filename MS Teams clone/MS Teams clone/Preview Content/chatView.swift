@@ -88,15 +88,15 @@ struct chatView: View {
                     .shadow(color: Color(hue: 1.0, saturation: 0.024, brightness: 0.194, opacity: 0.598), radius:10, x: 5, y: 5)
                     HStack {
                         navView(img:"bell",text:"Activity",stat:0)
-                            .frame(width: 60)
+                            .frame(width: 62)
                         navView(img:"bubble.right.fill",text:"chat",stat:1)
-                            .frame(width: 60)
+                            .frame(width: 62)
                         navView(img:"team",text:"Teams",stat:0)
-                            .frame(width: 60)
+                            .frame(width: 62)
                         navView(img:"bag",text:"Assignments",stat:0)
-                            .frame(width: 60)
+                            .frame(width: 62)
                         navView(img:"more",text:"More",stat:0)
-                            .frame(width: 60)
+                            .frame(width: 62)
                     }
                 }
             }.offset(y:370)
